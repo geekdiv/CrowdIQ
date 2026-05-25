@@ -85,7 +85,7 @@ const Sidebar = ({ view, go }) => {
       <div className="sidebar-foot">
         <div className="match-card">
           <div className="row">
-            <span className="teams">MUM vs CHE</span>
+            <span className="teams">MUM vs RR</span>
             <span className="live-badge">LIVE</span>
           </div>
           <div className="row" style={{ marginTop: 6 }}>

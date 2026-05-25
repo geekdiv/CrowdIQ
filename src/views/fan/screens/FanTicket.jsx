@@ -79,8 +79,8 @@ const FanTicket = ({ go }) => {
             </div>
             <div style={{ fontSize: 11, color: "var(--ink-4)" }}>vs</div>
             <div style={{ textAlign: "center", flex: 1 }}>
-              <div style={{ fontSize: 24, fontWeight: 700, letterSpacing: "-0.02em" }}>CHE</div>
-              <div className="annot">CHENNAI</div>
+              <div style={{ fontSize: 24, fontWeight: 700, letterSpacing: "-0.02em" }}>RR</div>
+              <div className="annot">RAJASTHAN</div>
             </div>
           </div>
 

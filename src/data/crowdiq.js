@@ -1,11 +1,11 @@
 // CrowdIQ — shared mock data for the match-day prototype
-// Match: Mumbai Royals vs. Chennai Titans
+// Match: Mumbai Indians vs. Rajasthan Royals
 // Venue: Apex Cricket Stadium, 52,400 capacity
 
 export const CIQ_DATA = {
   match: {
-    home: { code: "MUM", name: "Mumbai Royals", color: "#4FB3FF" },
-    away: { code: "CHE", name: "Chennai Titans", color: "#FFD166" },
+    home: { code: "MUM", name: "Mumbai Indians", color: "#4FB3FF" },
+    away: { code: "RR", name: "Rajasthan Royals", color: "#FF5A92" },
     venue: "Apex Cricket Stadium",
     city: "Mumbai",
     capacity: 52400,
@@ -96,7 +96,7 @@ export const CIQ_DATA = {
     { id:"n3", t:"6m ago", sev:"ok",   title:"Vikram entered Gate 4",           body:"He's 6 min from your seat.",                    action:"View on map" },
     { id:"n4", t:"12m ago",sev:"warn", title:"Light drizzle at 21:10",          body:"Roof closing. No action required.",             action:"Weather" },
     { id:"n5", t:"19:38",  sev:"info", title:"6 — Tilak Varma sends it!",       body:"Match milestone. Replay available.",            action:"Replay" },
-    { id:"n6", t:"19:30",  sev:"ok",   title:"Match started",                   body:"Chennai Titans bowl. MUM elected to bat.",      action:"Scorecard" },
+    { id:"n6", t:"19:30",  sev:"ok",   title:"Match started",                   body:"Rajasthan Royals bowl. MUM elected to bat.",      action:"Scorecard" },
   ],
   queues: [
     { id:"q1", name:"Wankhede Wraps",   wait:14, trend:"up",   alt:"Sixer Burgers (5m)" },

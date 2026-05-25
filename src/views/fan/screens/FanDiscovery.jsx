@@ -30,7 +30,7 @@ const FanDiscovery = ({ go }) => {
           <div style={{ position: "absolute", left: 18, right: 18, bottom: 18 }}>
             <div className="annot" style={{ color: "var(--cyan)" }}>IPL 2026 · MATCH 32</div>
             <div style={{ fontSize: 22, fontWeight: 700, marginTop: 6, letterSpacing: "-0.02em" }}>
-              Mumbai Royals <span style={{ color: "var(--ink-3)" }}>vs</span> Chennai Titans
+              Mumbai Indians <span style={{ color: "var(--ink-3)" }}>vs</span> Rajasthan Royals
             </div>
             <div style={{ fontSize: 11, color: "var(--ink-3)", marginTop: 4 }}>
               Apex Cricket Stadium · 52,400 seats · Roof open
